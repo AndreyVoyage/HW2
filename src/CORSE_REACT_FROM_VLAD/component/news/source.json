@@ -1,0 +1,40 @@
+[
+	{
+		"title": "American writer of",
+		"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem veritatis nobis eveniet officiis ex suscipit quod,",
+		"published": "2019-10-15",
+		"likes": 315,
+		"comments": 10,
+		"image": "https://images.pexels.com/photos/2967810/pexels-photo-2967810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		"tags": [
+			"literature",
+			"books"
+		]
+	},
+	{
+		"title": "Another article",
+		"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem veritatis nobis eveniet officiis ex suscipit quod,",
+		"published": "2019-10-15",
+		"likes": 201,
+		"comments": 12,
+		"image": "https://images.pexels.com/photos/2967810/pexels-photo-2967810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		"tags": [
+			"music",
+			"sport"
+		]
+	},
+	{
+		"title": "Popular article",
+		"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem veritatis ",
+		"published": "2019-10-15",
+		"likes": 456,
+		"comments": 42,
+		"image": "https://images.pexels.com/photos/2967810/pexels-photo-2967810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		"tags": [
+			"article",
+			"art"
+		]
+	}
+	
+]
+
